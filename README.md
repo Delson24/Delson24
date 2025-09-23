@@ -1,8 +1,10 @@
-## Welcome, eu sou Delson Mafumo
+##👋 Olá, eu sou o Delson Mafumo
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento web
-- 🌱 sou entusiata de Design UI/UX
+🎓 Estudante de Informática na Universidade Eduardo Mondlane
 
+💻 Desenvolvedor Web focado em criar soluções digitais funcionais e escaláveis
+🎨 Entusiasta de UI/UX Design, apaixonado por transformar ideias em interfaces modernas e intuitivas
+🚀 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e design
 
 <div> 
   <a href="https://www.instagram.com/delson_mafumo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
