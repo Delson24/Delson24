@@ -3,7 +3,9 @@
 🎓 Estudante de Informática na Universidade Eduardo Mondlane
 
 💻 Desenvolvedor Web focado em criar soluções digitais funcionais e escaláveis
+
 🎨 Entusiasta de UI/UX Design, apaixonado por transformar ideias em interfaces modernas e intuitivas
+
 🚀 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em frontend, backend e design
 
 
