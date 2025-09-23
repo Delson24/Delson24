@@ -11,8 +11,8 @@
 
 🚀 Tecnologias e Ferramentas
 
-🌐 Web Development: HTML, CSS, JavaScript, React, Node.js
-🛠️ Ferramentas: Git, Figma, VS Code
+🌐 Web Development: HTML, CSS, JavaScript, React, Node.js ||
+🛠️ Ferramentas: Git, Figma, VS Code ||
 📚 Sempre explorando novas stacks e boas práticas de desenvolvimento
 
 <div> 
