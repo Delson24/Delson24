@@ -20,12 +20,16 @@
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delsonmafumo&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsonmafumo&layout=compact&theme=tokyonight"/>
+  <!-- Estatísticas gerais (fictícias) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delsonmafumo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Estatísticas%20do%20Delson&line_height=24&hide=issues&hide_border=false&card_width=400" alt="Estatísticas do GitHub"/>
+  
+  <!-- Linguagens mais usadas (fictícias) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsonmafumo&layout=compact&theme=tokyonight&langs_count=6&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais usadas"/>
 </div>  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=delsonmafumo&theme=tokyonight&border_radius=8" alt="GitHub Streak"/>
+  <!-- Streak de commits (fictício) -->
+  <img src="https://streak-stats.demolab.com?user=delsonmafumo&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&custom_title=🔥%20Streak%20de%20Contribuições&mode=weekly" alt="GitHub Streak"/>
 </div>  
 
 ---
