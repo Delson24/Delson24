@@ -27,8 +27,23 @@
   <!-- Linguagens mais usadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsonmafumo&layout=compact&theme=tokyonight&langs_count=6&hide_border=false&custom_title=💡 Linguagens Mais Usadas" alt="Linguagens mais usadas"/>
 
-  <!-- Habilidades & Tecnologias -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=delsonmafumo&repo=skills&theme=tokyonight&custom_title=🛠️ Habilidades%20&%20Tecnologias&description=Java,%20JavaScript,%20React,%20Convex,%20Web%20Dev,%20Figma,%20AdobeXD" alt="Habilidades e Tecnologias"/>
+</div>  
+
+<div align="center">
+
+  <!-- Card manual de habilidades -->
+  <table>
+    <tr>
+      <td align="center" width="400" style="background-color:#0d1117; border-radius:10px; padding:20px;">
+        <h3>🛠️ Habilidades & Tecnologias</h3>
+        <p>
+          <b>Java ☕</b> • <b>JavaScript ⚡</b> • <b>React ⚛️</b> • <b>Convex 🔗</b> <br/>
+          <b>Web Development 🌐</b> <br/>
+          <b>Figma 🎨</b> • <b>Adobe XD 🖌️</b>
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </div>  
 
@@ -38,24 +53,3 @@
   <img src="https://streak-stats.demolab.com?user=delsonmafumo&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&custom_title=🔥 Streak de Contribuições&mode=weekly" alt="GitHub Streak"/>
 
 </div>  
-
-## 🌍 Vamos nos conectar?  
-
-<div align="center"> 
-  <a href="https://www.instagram.com/delson_mafumo/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a> 
-  <a href="http://www.linkedin.com/in/delson-mafumo-83169435b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
-  <a href="mailto:delsonmafumo24@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>  
-
----
-
-✨ _“A tecnologia é a ferramenta, mas a criatividade é o que transforma ideias em impacto real.”_  
