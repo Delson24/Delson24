@@ -20,19 +20,24 @@
 ## 📊 Estatísticas do GitHub  
 
 <div align="center">
-  <!-- Estatísticas gerais (fictícias) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delsonmafumo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Estatísticas%20do%20Delson&line_height=24&hide=issues&hide_border=false&card_width=400" alt="Estatísticas do GitHub"/>
-  
-  <!-- Linguagens mais usadas (fictícias) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsonmafumo&layout=compact&theme=tokyonight&langs_count=6&hide_border=false&custom_title=Linguagens%20Mais%20Usadas" alt="Linguagens mais usadas"/>
+
+  <!-- Estatísticas gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delsonmafumo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=⚡ Estatísticas do Delson&line_height=24&hide=issues&hide_border=false&card_width=400" alt="Estatísticas do GitHub"/>
+
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsonmafumo&layout=compact&theme=tokyonight&langs_count=6&hide_border=false&custom_title=💡 Linguagens Mais Usadas" alt="Linguagens mais usadas"/>
+
+  <!-- Habilidades & Tecnologias -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=delsonmafumo&repo=skills&theme=tokyonight&custom_title=🛠️ Habilidades%20&%20Tecnologias&description=Java,%20JavaScript,%20React,%20Convex,%20Web%20Dev,%20Figma,%20AdobeXD" alt="Habilidades e Tecnologias"/>
+
 </div>  
 
 <div align="center">
-  <!-- Streak de commits (fictício) -->
-  <img src="https://streak-stats.demolab.com?user=delsonmafumo&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&custom_title=🔥%20Streak%20de%20Contribuições&mode=weekly" alt="GitHub Streak"/>
-</div>  
+  
+  <!-- Streak de commits -->
+  <img src="https://streak-stats.demolab.com?user=delsonmafumo&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&custom_title=🔥 Streak de Contribuições&mode=weekly" alt="GitHub Streak"/>
 
----
+</div>  
 
 ## 🌍 Vamos nos conectar?  
 
