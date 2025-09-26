@@ -13,8 +13,8 @@
 - ☕ **Backend:** Java, MySQL / PostgreSQL  
 - 🎨 **Design & Prototipagem:** Figma, UI/UX  
 - 🛠️ **Ferramentas:** Git, VS Code, IntelliJ IDEA  
-- 📚 Sempre explorando novas stacks e boas práticas de desenvolvimento  
-
+- 📚 Sempre explorando novas stacks e boas práticas de desenvolvimento
+  
 ---
 
 ## 📊 Estatísticas do GitHub  
