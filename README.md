@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Delson Mafumo  
+# 👋 Olá, eu sou o Delson Mafumo
 
 🎓 **Estudante de Informática** na [Universidade Eduardo Mondlane](https://www.uem.mz/)  
 💻 **Desenvolvedor Web** apaixonado por criar soluções digitais modernas, funcionais e escaláveis  
