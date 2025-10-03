@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas  
+## 🚀 Tecnologias e Ferramentas   
 
 - 🌐 **Web Development:** HTML, CSS, JavaScript, React, Node.js
 - ☕ **Backend:** Java, MySQL / PostgreSQL  
