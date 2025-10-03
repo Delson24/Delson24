@@ -35,7 +35,7 @@
   <table>
     <tr>
       <td align="center" width="400" style="background-color:#0d1117; border-radius:10px; padding:20px;">
-        <h3>🛠️ Habilidades & Tecnologias</h3>
+        <h3>**🛠️ Habilidades & Tecnologias**</h3>
         <p>
           <b>Java ☕</b> • <b>JavaScript ⚡</b> • <b>React ⚛️</b> • <b>Convex 🔗</b> <br/>
           <b>Web Development 🌐</b> <br/>
