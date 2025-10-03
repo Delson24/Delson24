@@ -2,7 +2,7 @@
 
 🎓 **Estudante de Informática** na [Universidade Eduardo Mondlane](https://www.uem.mz/)  
 💻 **Desenvolvedor Web** apaixonado por criar soluções digitais modernas, funcionais e escaláveis  
-🎨 **Entusiasta de UI/UX Design**, transformando ideias em interfaces elegantes e intuitivas  
+🎨 **Entusiasta de UI/UX Design**, transformando ideias em interfaces elegantes e intuitivas   
 🚀 Sempre explorando novas tecnologias para evoluir no **frontend, backend, bases de dados e design**  
 
 ---
