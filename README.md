@@ -11,7 +11,7 @@
 
 - 🌐 **Web Development:** HTML, CSS, JavaScript, React, Node.js
 - ☕ **Backend:** Java, MySQL / PostgreSQL  
-- 🎨 **Design & Prototipagem:** Figma, UI/UX       
+- 🎨 **Design & Prototipagem:** Figma, UI/UX
 - 🛠️ **Ferramentas:** Git, VS Code, IntelliJ IDEA  
 - 📚 Sempre explorando novas stacks e boas práticas de desenvolvimento
   
