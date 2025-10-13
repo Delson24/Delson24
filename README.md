@@ -1,7 +1,9 @@
-<!-- Banner de boas-vindas -->
-<h1 align="center">👋 Hey Everyone, I'm <span style="color:#00bfff;">Delson Mafumo</span></h1>
-
-<h3 align="center">💻 Estudante de Informática | Desenvolvedor Web | Entusiasta de UI/UX</h3>
+<!-- Avatar + Nome -->
+<div align="center">
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-6817361-5607571.png" width="150" style="border-radius:50%; margin-bottom:10px;" alt="Delson Mafumo Avatar">
+  <h1>👋 Hey Everyone, I'm <span style="color:#00bfff;">Delson Mafumo</span></h1>
+  <h3>💻 Estudante de Informática | Desenvolvedor Web | Entusiasta de UI/UX</h3>
+</div>
 
 ---
 
@@ -18,9 +20,8 @@
 
 <div align="center">
 
-| Categoria | Tecnologias |
-|------------|-------------|
-| 🌐 **Web Development** | HTML · CSS · JavaScript · React · Node.js |
+| 🌐 **Web** | HTML · CSS · JavaScript · React · Node.js |
+|------------|--------------------------------------------|
 | ☕ **Backend** | Java · MySQL · PostgreSQL |
 | 🎨 **Design** | Figma · UI/UX |
 | ⚙️ **Ferramentas** | Git · VS Code · IntelliJ IDEA |
@@ -32,11 +33,11 @@
 ### 🔗 Conecta-te comigo
 
 <div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delsonmafumo24@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:delsonmafumo24@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me)
 
 </div>
@@ -54,6 +55,8 @@
 </div>
 
 ---
+
+### 🔥 Streak de Contribuições
 
 <div align="center">
   
@@ -89,3 +92,12 @@
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=delsonmafumo&label=👀+Visitas&color=blueviolet&style=flat)
 
 </div>
+
+---
+
+### 💬 Sobre Mim
+
+> “Acredito que a tecnologia tem o poder de transformar realidades.  
+> Cada linha de código é uma oportunidade de criar algo útil e inspirador.” ✨
+
+---
