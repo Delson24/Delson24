@@ -1,5 +1,5 @@
 <!-- Avatar + Nome -->
-<div align="center">
+<div align="center"> 
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/developer-6817361-5607571.png" width="150" style="border-radius:50%; margin-bottom:10px;" alt="Delson Mafumo Avatar">
   <h1>👋 Hey Everyone, I'm <span style="color:#00bfff;">Delson Mafumo</span></h1>
   <h3>💻 Estudante de Informática | Desenvolvedor Web | Entusiasta de UI/UX</h3>
