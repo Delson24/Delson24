@@ -47,12 +47,13 @@
 <div align="center">
 
   <!-- Estatísticas gerais -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=⚡ Estatísticas do Delson&line_height=24&hide_border=false" alt="Estatísticas do GitHub"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&custom_title=⚡ Estatísticas do GitHub" alt="Estatísticas do GitHub"/>
 
   <!-- Linguagens mais usadas -->
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=tokyonight&langs_count=6&hide_border=false&custom_title=💡 Linguagens Mais Usadas" alt="Linguagens mais usadas"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=tokyonight&langs_count=6&custom_title=💡 Linguagens Mais Usadas" alt="Linguagens mais usadas"/>
 
 </div>
+
 
 ---
 
