@@ -4,7 +4,7 @@
   <h3>💻 Estudante de Informática | Desenvolvedor Web | Entusiasta de UI/UX</h3>
 </div>
 
----
+--- 
 
 ## 🌌 Welcome to My GitHub Universe!
 
