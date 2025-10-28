@@ -5,7 +5,7 @@
 </div>
 
 --- 
-
+ 
 ## 🌌 Welcome to My GitHub Universe!
 
 🎓 **Estudante de Informática** na [Universidade Eduardo Mondlane](https://www.uem.mz/)  
