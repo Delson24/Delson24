@@ -1,4 +1,4 @@
-<!-- Avatar + Nome -->
+<!-- Avatar + Nome --> 
 <div align="center"> 
   <h1>👋 Hey Everyone, I'm <span style="color:#00bfff;">Delson Mafumo</span></h1>
   <h3>💻 Estudante de Informática | Desenvolvedor Web | Entusiasta de UI/UX</h3>
