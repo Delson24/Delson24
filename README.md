@@ -52,11 +52,6 @@
 <!-- Com título customizado -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&theme=tokyonight&langs_count=6&hide_border=false&card_width=320" alt="Linguagens mais usadas"/>
 
-<!-- Esconder linguagens específicas (exemplo: HTML, CSS) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&theme=tokyonight&langs_count=6&hide=html,css&hide_border=false" alt="Linguagens mais usadas"/>
-
-<!-- Mostrar mais linguagens -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&theme=tokyonight&langs_count=10&hide_border=false" alt="Linguagens mais usadas"/>
 ### 🔥 Streak de Contribuições
 
 <div align="center">
