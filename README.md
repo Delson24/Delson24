@@ -44,13 +44,10 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false" alt="Estatísticas do GitHub"/>
-  <!-- Com título customizado -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&theme=tokyonight&langs_count=6&hide_border=false&card_width=320" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false&card_width=380" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&theme=tokyonight&langs_count=6&hide_border=false&card_width=380&layout=compact" alt="Linguagens mais usadas"/>
 </div>
-
 
 
 ### 🔥 Streak de Contribuições
