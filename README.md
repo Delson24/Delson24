@@ -115,30 +115,6 @@ motto: "Code with purpose, design with passion"
 
 ---
 
-<!-- Featured Projects -->
-<h2 align="center">⭐ Projetos em Destaque</h2>
-
-<div align="center">
-  
-<a href="https://github.com/Delson24/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delson24&repo=portfolio&theme=radical&hide_border=true&bg_color=1a1b27&title_color=9745f5&icon_color=ff6d00&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/Delson24/web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delson24&repo=web-app&theme=radical&hide_border=true&bg_color=1a1b27&title_color=9745f5&icon_color=ff6d00&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/Delson24/ui-components">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delson24&repo=ui-components&theme=radical&hide_border=true&bg_color=1a1b27&title_color=9745f5&icon_color=ff6d00&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/Delson24/api-rest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delson24&repo=api-rest&theme=radical&hide_border=true&bg_color=1a1b27&title_color=9745f5&icon_color=ff6d00&text_color=ffffff" />
-</a>
-
-</div>
-
----
 
 <!-- Quote -->
 <h2 align="center">💭 Pensamento do Dia</h2>
