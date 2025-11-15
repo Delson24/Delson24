@@ -53,7 +53,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo e estou a aprender
 > **ATENÇÃO:** Para que as estatísticas funcionem, substitua `DelsonMafumo` pelo seu **nome de utilizador exato do GitHub** nos links abaixo. O tema foi alterado para `tokyonight` para um visual mais colorido.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DelsonMafumo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub do Delson" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub do Delson" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelsonMafumo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
   <img src="https://github-readme-streak-stats.demolab.com/?user=DelsonMafumo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
