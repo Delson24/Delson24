@@ -52,7 +52,7 @@ Estou em constante aprendizado e aprimoramento, com foco em: **JavaScript**, **R
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
 <br/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Delson24&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Delson24&theme=radical&hide_border=true" alt="GitHub Streak" />
 <br/>
 <!-- Os cards de WakaTime e 3D Profile foram removidos pois requerem configuração adicional no GitHub ou em serviços externos. -->
 
@@ -60,7 +60,7 @@ Estou em constante aprendizado e aprimoramento, com foco em: **JavaScript**, **R
 <!-- O card 3D Profile foi removido pois requer configuração adicional no GitHub. -->
 
 <!-- Gráfico de Contribuições (Heatmap) -->
-<img src="https://github-contributions-grid-snake.vercel.app/graph.svg?username=Delson24&theme=dark" alt="Gráfico de Contribuições do GitHub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Delson24&theme=react-dark&hide_border=true&color=ff0000" alt="Gráfico de Contribuições do GitHub" />
 
 ---
 
