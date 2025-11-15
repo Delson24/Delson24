@@ -54,12 +54,13 @@ Estou em constante aprendizado e aprimoramento, com foco em: **JavaScript**, **R
 <br/>
 <img src="https://github-readme-streak-stats.demolab.com/?user=Delson24&theme=radical&hide_border=true" alt="GitHub Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Delson24&layout=compact&theme=radical&hide_border=true" alt="Wakatime" />
-<br/>
-<img src="https://github.com/Delson24/Delson24/blob/main/profile-3d.svg" alt="3D Profile" />
+<!-- Os cards de WakaTime e 3D Profile foram removidos pois requerem configuração adicional no GitHub ou em serviços externos. -->
 
 <!-- Gráfico de Contribuições (Substitua Delson24 pelo seu username) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Delson24&theme=react-dark" alt="Gráfico de Atividade do GitHub" />
+<!-- O card 3D Profile foi removido pois requer configuração adicional no GitHub. -->
+
+<!-- Gráfico de Contribuições (Heatmap) -->
+<img src="https://github-contributions-grid-snake.vercel.app/graph.svg?username=Delson24&theme=dark" alt="Gráfico de Contribuições do GitHub" />
 
 ---
 
