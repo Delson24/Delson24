@@ -1,10 +1,14 @@
 # Olá, eu sou o Delson Mafumo! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Desenvolvedor+Web+%26+UI%2FUX+Designer;Code+with+purpose%2C+design+with+passion;Criando+soluções+que+impactam+vidas" alt="Typing SVG" />
+</p>
+
 ### Desenvolvedor Web & Designer UI/UX 💻🎨
 
 [![Localização](https://img.shields.io/badge/Maputo%2C%20Moçambique%20🇲🇿-0077B5?style=flat-square&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Maputo) [![Universidade Eduardo Mondlane](https://img.shields.io/badge/UEM-0077B5?style=flat-square&logo=universityofcalifornia&logoColor=white)](https://www.uem.mz/)
 
-> `Code with purpose, design with passion`
+<!-- O motto foi movido para o typewriter SVG -->
 
 Sou um **Desenvolvedor Web** e **Designer UI/UX** de Maputo, Moçambique, focado em criar soluções digitais que realmente **impactam vidas**. Acredito que a tecnologia, aliada a um design centrado no utilizador, tem o poder de transformar o mundo.
 
@@ -60,7 +64,7 @@ Estou em constante aprendizado e aprimoramento, com foco em: **JavaScript**, **R
 <!-- O card 3D Profile foi removido pois requer configuração adicional no GitHub. -->
 
 <!-- Gráfico de Contribuições (Heatmap) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Delson24&theme=react-dark&hide_border=true&color=ff0000" alt="Gráfico de Contribuições do GitHub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Delson24&theme=react-dark&hide_border=true" alt="Gráfico de Contribuições do GitHub" />
 
 ---
 
