@@ -1,7 +1,7 @@
 <!--
   ====================================================================================
-  README Personalizado para Delson Mafumo
-  Baseado no estilo elegante e visualmente rico das imagens de referência.
+  README Personalizado para Delson Mafumo - Versão 2.0
+  Ajustes solicitados: Gráficos maiores, "Sobre Mim" reorganizado e elementos adicionais.
   ====================================================================================
 -->
 
@@ -23,27 +23,9 @@
 
 <br>
 
-<!-- 2. Badges de Status e Links Sociais (Estilo Compacto) -->
-<div align="center">
-  <!-- Links Sociais com Badges -->
-  <p>
-    <a href="https://linkedin.com/in/delson-mafumo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:delsonmafumo24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://instagram.com/delson.mafumo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://t.me/delsonmafumo" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  </p>
-  
-  <!-- Badge de Visitantes -->
-  <p>
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDelson24&label=Visitantes&countColor=%239745f5&style=for-the-badge&labelStyle=upper" alt="Visitors"/>
-  </p>
-</div>
-
-<br>
-
 ---
 
-<!-- 3. Seção Sobre Mim (Inspirado no formato da imagem) -->
+<!-- 2. Seção Sobre Mim (Reorganizada e Inspirada no novo modelo) -->
 <div align="center">
   <h2>👨‍💻 Sobre Mim</h2>
 </div>
@@ -53,35 +35,60 @@
 </p>
 
 <div align="center">
+  <!-- Lista de Foco e Interesses (Inspirado no formato de lista da imagem) -->
   <p>
-    - 🔭 Atualmente trabalhando em projetos web inovadores.
     <br>
-    - 🌱 Aprendendo constantemente sobre <strong>React, Node.js e Design</strong>.
+    🎓 Estudante de Informática na Universidade Eduardo Mondlane
     <br>
-    - 👯 Procurando colaborar em projetos open source.
+    💻 Desenvolvedor Web Full Stack (JavaScript, Java, React, Node.js)
     <br>
-    - 💬 Pergunte-me sobre <strong>JavaScript, Java, UI/UX</strong>.
+    🎨 Entusiasta de UI/UX Design
     <br>
-    - ⚡ Curiosidade: Amo transformar café em código funcional!
+    💡 Sempre em busca de projetos open source para colaborar
+    <br>
+    📍 Localizado em Maputo, Moçambique 🇲🇿
   </p>
 </div>
 
 ---
 
-<!-- 4. Seção de Estatísticas do GitHub (Layout de 2 Colunas) -->
+<!-- 3. Seção de Estatísticas do GitHub (Gráficos Maiores - Largura Total) -->
 <div align="center">
   <h2>📊 Estatísticas do GitHub</h2>
   
-  <!-- Stats e Top Languages (Lado a Lado) -->
+  <!-- Stats (Largura Total) -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=9745f5&icon_color=9745f5&text_color=ffffff&count_private=true" alt="Delson's GitHub Stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=9745f5&text_color=ffffff" alt="Top Languages" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=9745f5&icon_color=9745f5&text_color=ffffff&count_private=true" alt="Delson's GitHub Stats"/>
   </p>
   
-  <!-- Streak Stats e Activity Graph (Lado a Lado) -->
+  <!-- Top Languages (Largura Total) -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delson24&theme=radical&hide_border=true&background=1a1b27&stroke=9745f5&ring=9745f5&fire=ff6d00&currStreakLabel=9745f5" alt="GitHub Streak" width="48%"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delson24&theme=react-dark&hide_border=true&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&area=true&area_color=9745f5" alt="Activity Graph" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=9745f5&text_color=ffffff" alt="Top Languages"/>
+  </p>
+  
+  <!-- Streak Stats (Largura Total) -->
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delson24&theme=radical&hide_border=true&background=1a1b27&stroke=9745f5&ring=9745f5&fire=ff6d00&currStreakLabel=9745f5" alt="GitHub Streak"/>
+  </p>
+  
+  <!-- Activity Graph (Largura Total) -->
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delson24&theme=react-dark&hide_border=true&bg_color=1a1b27&color=9745f5&line=9745f5&point=ffffff&area=true&area_color=9745f5" alt="Activity Graph"/>
+  </p>
+</div>
+
+---
+
+<!-- 4. Resumo de Conquistas (Novo Elemento) -->
+<div align="center">
+  <h2>✨ Resumo de Conquistas</h2>
+  <p>
+    ⭐ Estrelas recebidas: Veja as estrelas nos meus repositórios populares.
+    <br>
+    Commits diários: Acompanhe minha atividade no gráfico de contribuições acima.
+    <br>
+    Visitas ao perfil: 
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDelson24&label=Visitantes&countColor=%239745f5&style=flat&labelStyle=upper" alt="Visitors"/>
   </p>
 </div>
 
@@ -128,7 +135,7 @@
 
 ---
 
-<!-- 6. Troféus e Contribuição Snake (Para manter o visual rico) -->
+<!-- 6. Troféus e Contribuição Snake -->
 <div align="center">
   <h2>🏆 Conquistas e Contribuições</h2>
   
@@ -147,17 +154,24 @@
 
 ---
 
-<!-- 7. Call to Action (Rodapé) -->
+<!-- 7. Call to Action (Rodapé) - Links Sociais em Destaque -->
 <div align="center">
-  <h2>👋 Vamos Conectar!</h2>
+  <h2>👋 Onde Me Encontrar</h2>
   <p>
     Estou sempre aberto a novos projetos e colaborações. Sinta-se à vontade para entrar em contacto!
+  </p>
+  
+  <!-- Links Sociais com Badges (Estilo da Imagem de Referência) -->
+  <p>
+    <a href="https://linkedin.com/in/delson-mafumo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://instagram.com/delson.mafumo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://t.me/delsonmafumo" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   </p>
   
   <!-- Link de Email em destaque -->
   <p>
     <a href="mailto:delsonmafumo24@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Fale%20Comigo-delsonmafumo24@gmail.com-9745F5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+      <img src="https://img.shields.io/badge/Email-delsonmafumo24@gmail.com-9745F5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </p>
 </div>
