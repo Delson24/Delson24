@@ -12,24 +12,22 @@ Sou um **Desenvolvedor Web** e **Designer UI/UX** de Maputo, Moçambique, focado
 
 ## 🚀 Foco Atual & Objetivo
 
-| Categoria | Detalhe |
-| :--- | :--- |
-| **Foco Principal** | Web Development & UI/UX Design |
-| **Educação** | Informática, Universidade Eduardo Mondlane |
-| **Objetivo** | Criar soluções que impactam vidas |
-| **Motto** | "Code with purpose, design with passion" |
+<p align="center">
+  <img src="https://img.shields.io/badge/Foco%20Principal-Web%20Dev%20%26%20UI%2FUX-blue?style=for-the-badge&logo=react&logoColor=white" alt="Foco Principal" />
+  <img src="https://img.shields.io/badge/Educação-UEM%20Informática-green?style=for-the-badge&logo=universityofcalifornia&logoColor=white" alt="Educação" />
+  <img src="https://img.shields.io/badge/Objetivo-Impactar%20Vidas-red?style=for-the-badge&logo=github-actions&logoColor=white" alt="Objetivo" />
+  <img src="https://img.shields.io/badge/Motto-Code%20with%20purpose-orange?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Motto" />
+</p>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-Aqui estão algumas das tecnologias e ferramentas que utilizo e estou a aprender:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,java,figma,git,github" alt="Tecnologias" />
+</p>
 
-| Categoria | Badges |
-| :--- | :--- |
-| **Desenvolvimento Web** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-br/) |
-| **Design** | [![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) |
-| **Outras** | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) |
+Estou em constante aprendizado e aprimoramento, com foco em: **JavaScript**, **React**, **Node.js**, **Java** e **UI/UX Design**.
 
 ---
 
@@ -50,23 +48,23 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo e estou a aprender
 
 ## 📊 Estatísticas do GitHub
 
-> **ATENÇÃO:** Para que as estatísticas funcionem, substitua `DelsonMafumo` pelo seu **nome de utilizador exato do GitHub** nos links abaixo. O tema foi alterado para `tokyonight` para um visual mais colorido.
+> **ATENÇÃO:** Para que as estatísticas funcionem, substitua `Delson24` pelo seu **nome de utilizador exato do GitHub** nos links abaixo. O tema foi alterado para `tokyonight` para um visual mais colorido.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub do Delson" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelsonMafumo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=DelsonMafumo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Delson24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔗 Conecte-se Comigo
+## 🔗 Conecte-se Comigo 🤝
 
-| Plataforma | Link |
-| :--- | :--- |
-| **Localização** | Maputo, Mozambique 🇲🇿 |
-| **LinkedIn** | [Seu Perfil do LinkedIn] |
-| **Email** | [Seu Endereço de Email] |
+<p align="center">
+  <a href="[Seu Perfil do LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:[Seu Endereço de Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- Adicione mais links de redes sociais aqui, se desejar (ex: Instagram, Twitter, etc.) -->
+</p>
 
 ---
 
