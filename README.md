@@ -12,12 +12,10 @@ Sou um **Desenvolvedor Web** e **Designer UI/UX** de Maputo, Moçambique, focado
 
 ## 🚀 Foco Atual & Objetivo
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Foco%20Principal-Web%20Dev%20%26%20UI%2FUX-blue?style=for-the-badge&logo=react&logoColor=white" alt="Foco Principal" />
-  <img src="https://img.shields.io/badge/Educação-UEM%20Informática-green?style=for-the-badge&logo=universityofcalifornia&logoColor=white" alt="Educação" />
-  <img src="https://img.shields.io/badge/Objetivo-Impactar%20Vidas-red?style=for-the-badge&logo=github-actions&logoColor=white" alt="Objetivo" />
-  <img src="https://img.shields.io/badge/Motto-Code%20with%20purpose-orange?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Motto" />
-</p>
+- 💻 **Foco Principal:** Web Development & UI/UX Design
+- 🎓 **Educação:** Informática, Universidade Eduardo Mondlane
+- 🎯 **Objetivo:** Criar soluções que impactam vidas
+- 💡 **Motto:** "Code with purpose, design with passion"
 
 ---
 
@@ -48,13 +46,20 @@ Estou em constante aprendizado e aprimoramento, com foco em: **JavaScript**, **R
 
 ## 📊 Estatísticas do GitHub
 
-> **ATENÇÃO:** Para que as estatísticas funcionem, substitua `Delson24` pelo seu **nome de utilizador exato do GitHub** nos links abaixo. O tema foi alterado para `tokyonight` para um visual mais colorido.
+> **ATENÇÃO:** Para que as estatísticas funcionem, substitua `Delson24` pelo seu **nome de utilizador exato do GitHub** nos links abaixo. O tema foi alterado para `radical` para um visual mais colorido.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub do Delson" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Delson24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub do Delson" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
+<br/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=Delson24&theme=radical&hide_border=true" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Delson24&layout=compact&theme=radical&hide_border=true" alt="Wakatime" />
+<br/>
+<img src="https://github.com/Delson24/Delson24/blob/main/profile-3d.svg" alt="3D Profile" />
+
+<!-- Gráfico de Contribuições (Substitua Delson24 pelo seu username) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Delson24&theme=react-dark" alt="Gráfico de Atividade do GitHub" />
 
 ---
 
