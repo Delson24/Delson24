@@ -1,81 +1,61 @@
-# Olá, eu sou o Delson Mafumo! 👋
-
+Olá! Eu sou o Delson Mafumo 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Desenvolvedor+Web+%26+UI%2FUX+Designer;Code+with+purpose%2C+design+with+passion;Criando+soluções+que+impactam+vidas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+%7C+UI%2FUX+Designer;Transformando+café+em+código;Criando+soluções+que+impactam" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Maputo,_Moçambique-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_UEM-00D9FF?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Delson24&color=00D9FF&style=flat-square" />
 </p>
 
-### Desenvolvedor Web & Designer UI/UX 💻🎨
+💫 Sobre Mim
+Desenvolvedor Web e Designer UI/UX apaixonado por criar experiências digitais memoráveis. Acredito no poder da tecnologia para transformar ideias em soluções reais que fazem a diferença.
+javascriptconst delson = {
+    localização: "Maputo, Moçambique 🇲🇿",
+    educação: "Informática @ UEM",
+    foco: ["Web Development", "UI/UX Design"],
+    motto: "Code with purpose, design with passion",
+    combustível: "☕ Café"
+};
 
-[![Localização](https://img.shields.io/badge/Maputo%2C%20Moçambique%20🇲🇿-0077B5?style=flat-square&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Maputo) [![Universidade Eduardo Mondlane](https://img.shields.io/badge/UEM-0077B5?style=flat-square&logo=universityofcalifornia&logoColor=white)](https://www.uem.mz/)
-
-<!-- O motto foi movido para o typewriter SVG -->
-
-Sou um **Desenvolvedor Web** e **Designer UI/UX** de Maputo, Moçambique, focado em criar soluções digitais que realmente **impactam vidas**. Acredito que a tecnologia, aliada a um design centrado no utilizador, tem o poder de transformar o mundo.
-
----
-
-## 🚀 Foco Atual & Objetivo
-
-- 💻 **Foco Principal:** Web Development & UI/UX Design
-- 🎓 **Educação:** Informática, Universidade Eduardo Mondlane
-- 🎯 **Objetivo:** Criar soluções que impactam vidas
-- 💡 **Motto:** "Code with purpose, design with passion"
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
+🎯 Stack Tecnológico
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,java,figma,git,github" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,java,figma,git,github,html,css,vscode&perline=5" />
 </p>
 
-Estou em constante aprendizado e aprimoramento, com foco em: **JavaScript**, **React**, **Node.js**, **Java** e **UI/UX Design**.
-
----
-
-## 🌱 O que estou a fazer agora
-
-- 🔭 **Atualmente trabalhando em:** Projetos web inovadores que resolvem problemas reais.
-- 🌱 **Aprendendo constantemente sobre:** React, Node.js e aprofundando as minhas habilidades em Design.
-- 👯 **Procurando colaborar em:** Projetos open source onde possa contribuir com código e design.
-- 💬 **Pergunte-me sobre:** JavaScript, Java, UI/UX.
-
----
-
-## ☕ Curiosidade
-
-> ⚡ **Amo transformar café em código funcional.**
-
----
-
-## 📊 Estatísticas do GitHub
-
-> **ATENÇÃO:** Para que as estatísticas funcionem, substitua `Delson24` pelo seu **nome de utilizador exato do GitHub** nos links abaixo. O tema foi alterado para `radical` para um visual mais colorido.
-
-<img src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub do Delson" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Delson24&theme=radical&hide_border=true" alt="GitHub Streak" />
-<br/>
-<!-- Os cards de WakaTime e 3D Profile foram removidos pois requerem configuração adicional no GitHub ou em serviços externos. -->
-
-<!-- Gráfico de Contribuições (Substitua Delson24 pelo seu username) -->
-<!-- O card 3D Profile foi removido pois requer configuração adicional no GitHub. -->
-
-<!-- Gráfico de Contribuições (Heatmap) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Delson24&theme=react-dark&hide_border=true" alt="Gráfico de Contribuições do GitHub" />
-
----
-
-## 🔗 Conecte-se Comigo 🤝
-
+📊 GitHub Stats
 <p align="center">
-  <a href="[Seu Perfil do LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:[Seu Endereço de Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- Adicione mais links de redes sociais aqui, se desejar (ex: Instagram, Twitter, etc.) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delson24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson24&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delson24&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delson24&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
+🌱 Atualmente
 
-Feito com ❤️ e ☕ por Delson Mafumo.
+🔨 Desenvolvendo projetos web inovadores
+📚 Aprofundando conhecimentos em React e Node.js
+🎨 Aperfeiçoando habilidades de UI/UX Design
+🤝 Aberto a colaborações em projetos open source
+
+
+🤝 Vamos Conectar?
+<p align="center">
+  <a href="mailto:seu-email@example.com">
+    <img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
+</p>
+<p align="center">
+  Feito com ❤️ e ☕ em Maputo
+</p>
