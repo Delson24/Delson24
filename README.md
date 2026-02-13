@@ -1,55 +1,52 @@
-# Delson Mafumo
+<h1 align="left">👋 Hey, I'm Delson Mafumo</h1>
 
 Web Developer & Automation Engineer  
 Building scalable systems and intelligent automation.
 
 ---
 
-## About
+## 🚀 About Me
 
-I design and develop structured digital systems focused on performance, scalability, and automation.
-
-My work combines web engineering and process automation to eliminate manual friction and optimize operational workflows.
-
----
-
-## Core Stack
-
-TypeScript • JavaScript • React • Node.js  
-Python (Selenium, Automation)  
-Java (OOP, MVC Architecture)
+- 💻 Web systems development
+- ⚙️ Automation engineering
+- 🧠 Focused on clean architecture and scalability
+- 🌍 Based in Maputo, Mozambique
 
 ---
 
-## Focus Areas
+## 🛠 Technologies & Tools
 
-- Scalable Web Systems
-- Automation Engineering
-- Clean Architecture
-- Business Process Optimization
-
----
-
-## Selected Work
-
-**Belo Salon Store**  
-Structured web store built with TypeScript.
-
-**Book Price Automation System**  
-Python automation system for multi-source price collection.
-
-**Product Registration Automation**  
-Workflow automation using PyAutoGUI.
+- 🟢 TypeScript / JavaScript
+- 🟢 React / Node.js
+- 🟢 Python (Selenium, Automation)
+- 🟢 Java (OOP, MVC)
+- 🟢 Git & GitHub
+- 🟢 REST APIs
 
 ---
 
-## Engineering Principles
+## 📌 Core Areas
 
-- Clarity over complexity
-- Structure over improvisation
-- Systems over scripts
-- Scalability by design
+- 🚀 Scalable Web Applications
+- ⚙️ Process Automation
+- 🧩 System Architecture
+- 📊 Performance-Oriented Solutions
 
 ---
 
-Maputo, Mozambique
+## 📈 GitHub Focus
+
+- Building real-world systems
+- Structuring scalable projects
+- Automation for operational efficiency
+- Backend engineering refinement
+
+---
+
+## 🌐 Connect
+
+- GitHub: https://github.com/Delson24
+- Email: Delsonmafumo24@gmail.com
+- Linkedin: www.linkedin.com/in/delson-mafumo-83169435b
+
+
