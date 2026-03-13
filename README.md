@@ -22,6 +22,7 @@ Building scalable systems and intelligent automation.
 - 🟢 Java (OOP, MVC)
 - 🟢 Git & GitHub
 - 🟢 REST APIs
+- 🟢 Learning PHP
 
 ---
 
